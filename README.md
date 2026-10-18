@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="assets/carl-creative-studio.png" width="200" alt="Carl 在暖色燈光的夜間工作室裡托腮思考的插畫">
-</p>
+<img src="assets/carl-studio-banner.png" width="100%" alt="Carl 在暖色夜間工作室裡思考，桌面、螢幕與城市窗景延展成寬幅插畫">
 
-<h3 align="center">Hi, I’m Carl.</h3>
+### Hi, I’m Carl.
 
 I build tools for reliable AI-assisted software development.
 
