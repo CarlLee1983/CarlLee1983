@@ -1,3 +1,5 @@
+<img align="right" src="assets/carl-creative-studio.png" width="220" alt="Carl 在暖色燈光的夜間工作室裡托腮思考的插畫">
+
 # Hi, I’m Carl.
 
 I build tools for reliable AI-assisted software development.
@@ -5,6 +7,8 @@ I build tools for reliable AI-assisted software development.
 My projects focus on explicit permissions, traceable sources, and verifiable results.
 
 我打造開發工具與工作流程，讓 AI 協作有清楚的權限、可追溯的依據，以及能驗證的成果。
+
+<br clear="both">
 
 ## Selected projects
 
